@@ -1,0 +1,10 @@
+{
+  "name": "node_graphql",
+  "port": 3306,
+  "db": {
+    "username": "root",
+    "password": "123456",
+    "host": "127.0.0.1",
+    "database_usercenter":"springboot"
+  }
+}
